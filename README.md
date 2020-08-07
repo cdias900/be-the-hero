@@ -1,2 +1,2 @@
 # be-the-hero
-Be The Hero project during the Omnistack Week 11.0
+Be The Hero project developed during the Omnistack Week 11.0
